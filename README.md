@@ -17,19 +17,21 @@ We welcome contributions from current students, alumni, and faculty. To maintain
 
 ### Directory Structure
 
-1. **Course Materials:**
+**Course Materials:**
    - Use the format `COURSECODE_COURSENAME`
    - Example: `CS101_IntroductionToComputing`
 
-2. **Assignments:**
+### File Structure
+
+1. **Assignments:**
    - Use the format `COURSENAME_SEMESTER_AssignmentNO`
    - Example: `OOP_SPRING2024_A1`
 
-3. **Quizzes:**
+2. **Quizzes:**
    - Use the format `COURSENAME_SEMESTER_QuizNO`
    - Example: `OOP_SPRING2024_Q1`
 
-4. **Labs:**
+3. **Labs:**
    - Use the format `COURSENAME_SEMESTER_LabNO`
    - Example: `OOP_SPRING2024_L1`
 
