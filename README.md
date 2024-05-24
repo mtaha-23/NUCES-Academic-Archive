@@ -67,10 +67,6 @@ We welcome contributions from current students, alumni, and faculty. To maintain
 7. **Submit a Pull Request:**
    - Go to the original repository on GitHub and click "New Pull Request".
 
-## License
-
-This repository is licensed under the MIT License. See the `LICENSE` file for more details.
-
 ## Contact
 
 If you have any questions or suggestions, feel free to open an issue or contact one of the repository maintainers.
